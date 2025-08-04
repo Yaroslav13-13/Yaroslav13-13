@@ -63,5 +63,5 @@ Collaborative project: A landing page for an online store with adaptive design a
 ---
 
 ## 📬 Get in touch
-- Email: yaroslav.pron13@gmail.com
+- Email: pronyaroslav@gmail.com
 - LinkedIn: [Yaroslav Pron](https://www.linkedin.com/in/yaroslav-pron-270b26329/)
