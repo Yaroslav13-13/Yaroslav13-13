@@ -49,7 +49,7 @@ Collaborative project: A landing page for an online store with adaptive design a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaroslav13-13&show_icons=true&theme=graywhite&hide_title=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yaroslav13-13&show_icons=true&theme=graywhite&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav13-13&layout=compact&theme=graywhite" width="45%" />
 </div>
 
