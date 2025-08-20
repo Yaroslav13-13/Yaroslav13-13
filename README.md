@@ -46,7 +46,7 @@ Tech:
 - HTML5, CSS3, JavaScript (ES6+), Node.js, Vite  
 - Libraries: Axios (API requests), Swiper.js (sliders for "Reviews" & "Popular Products"), iziToast (success/error notifications), accordion (FAQ functionality), css-star-rating / raty-js (star ratings)
   
-🔗 [Live Demo](https://stanislavnemch.github.io/project-nobug-nocry/) | [Repository](https://github.com/Yaroslav13-13/project-nobug-nocry)
+🔗 [Live Demo](https://stanislavnemch.github.io/project-nobug-nocry/) | [📂 Repository](https://github.com/Yaroslav13-13/project-nobug-nocry)
 
 ---
 
