@@ -38,11 +38,23 @@ A responsive website layout, built from scratch based on a design in Figma.
 
 ---
 
+💻 Team Project - NoBug NoCry (HERO Section)
+My contribution: Implemented the **HERO section** of the landing page.  
+Collaborative project showcasing adaptive design, interactive features, and real UX interactions.
+
+Tech: 
+- HTML5, CSS3, JavaScript (ES6+), Node.js, Vite  
+- Libraries: Axios (API requests), Swiper.js (sliders for "Reviews" & "Popular Products"), iziToast (success/error notifications), accordion (FAQ functionality), css-star-rating / raty-js (star ratings)
+  
+🔗 [Live Demo](https://stanislavnemch.github.io/project-nobug-nocry/) | [Repository](https://github.com/Yaroslav13-13/project-nobug-nocry)
+
+---
+
 ### 👨‍💻 Team Project - Online Store Landing Page
 Collaborative project: A landing page for an online store with adaptive design and interactive sections.
 > Tech: HTML, CSS, JavaScript (Team project)
 
-[🔗 Live Demo](https://xxleittoxx.github.io/project-group-07/) | [📂 Repository](https://github.com/xxleittoxx/project-group-07)
+[🔗 Live Demo](https://xxleittoxx.github.io/project-group-07/) | [📂 Repository](https://github.com/Yaroslav13-13/project-group-07)
 
 ---
 
