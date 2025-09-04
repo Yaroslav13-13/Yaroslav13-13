@@ -58,6 +58,16 @@ Collaborative project: A landing page for an online store with adaptive design a
 
 ---
 
+### 🏋️ HIIT Workout Plan + Interval Timer
+A web app for planning **4-week HIIT workouts** with an interactive interval timer.  
+Includes ready-made workout combos, a 4-week schedule, and a built-in timer with Start/Pause/Reset controls.  
+
+> Tech: HTML, CSS, JavaScript (DOM, Events, Timer Logic)
+
+[🔗 Live Demo](https://yaroslav13-13.github.io/hiit-workout-plan/) | [📂 Repository](https://github.com/Yaroslav13-13/hiit-workout-plan)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
