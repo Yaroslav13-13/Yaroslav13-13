@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Yaroslav Pron
+# Hey there! I'm Yaroslav Pron
 
 I'm a Frontend Developer in progress, focused on building **clean and user-friendly web applications** using modern technologies like **React, Vite, and REST APIs**.
 
