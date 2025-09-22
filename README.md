@@ -59,6 +59,17 @@ Collaborative project: A landing page for an online store with adaptive design a
 
 ---
 
+### 📝 NoteHub
+A note-taking web application with **task management features**.  
+Users can create, edit, delete, and categorize notes, as well as manage tasks inside each note.  
+Built with a focus on **clean UI, modular structure, and modern tooling**.
+
+> Tech: React, TypeScript, Vite, CSS Modules, Formik, Yup, Axios, REST API
+
+[🔗 Live Demo](https://05-notehub-7l1z.vercel.app/) | [📂 Repository](https://github.com/Yaroslav13-13/05-notehub)
+
+---
+
 ### 🏋️ HIIT Workout Plan + Interval Timer
 A web app for planning **4-week HIIT workouts** with an interactive interval timer.  
 Includes ready-made workout combos, a 4-week schedule, and a built-in timer with Start/Pause/Reset controls.  
