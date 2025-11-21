@@ -61,16 +61,21 @@ Collaborative project: A landing page for an online store with adaptive design a
 
 ### 📝 NoteHub (Next.js Modern Version)
 
-A modern full-stack notes management application with authentication, protected routes, tags, filtering, and full CRUD operations.
-Built using Next.js App Router with a clean architecture and clear separation between server and client logic.
+A modern full-stack notes management application with **authentication, protected routes, tags, filtering, and full CRUD operations**.  
+Built using **Next.js App Router** with a clean architecture and clear separation between server and client logic.
 
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" /> </div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
+</div>
 
-Tech: Next.js 14 (App Router), React 18, TypeScript, TanStack Query, Zustand, CSS Modules, Axios, MongoDB, Mongoose, JWT, bcrypt, REST API, Session-based Auth
+> Tech: Next.js 14 (App Router), React 18, TypeScript, TanStack Query, Zustand, CSS Modules, Axios, MongoDB, Mongoose, JWT, bcrypt, REST API, Session-based Auth
 
-🔗 Live Demo
- · 📂 Repository
-
+[🔗 Live Demo](https://09-auth-seven-pi.vercel.app/) | [📂 Repository](https://github.com/Yaroslav13-13/09-auth)
 ---
 
 ### 🏋️ HIIT Workout Plan + Interval Timer
