@@ -66,7 +66,7 @@ The project is built using Next.js App Router, with a clean architecture and cli
 
 Tech: Next.js 14 (App Router), React, TypeScript, TanStack Query, Zustand, CSS Modules, Axios, MongoDB, Mongoose, JWT, bcrypt, Session-based Auth
 
-[🔗 Live Demo]([(https://09-auth-seven-pi.vercel.app/)](https://09-auth-seven-pi.vercel.app/)) | [📂 Repository]([(https://github.com/Yaroslav13-13/09-auth)](https://github.com/Yaroslav13-13/09-auth))
+[🔗 Live Demo]((https://09-auth-seven-pi.vercel.app/)) | [📂 Repository]((https://github.com/Yaroslav13-13/09-auth))
 
 ---
 
