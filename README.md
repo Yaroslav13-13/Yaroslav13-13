@@ -59,14 +59,14 @@ Collaborative project: A landing page for an online store with adaptive design a
 
 ---
 
-### 📝 NoteHub
-A note-taking web application with **task management features**.  
-Users can create, edit, delete, and categorize notes, as well as manage tasks inside each note.  
-Built with a focus on **clean UI, modular structure, and modern tooling**.
+### 📝 NoteHub (Next.js Modern Version)
 
-> Tech: React, TypeScript, Vite, CSS Modules, Formik, Yup, Axios, REST API
+A modern full-stack notes management application with authentication, protected routes, tags, filtering, and CRUD operations.
+The project is built using Next.js App Router, with a clean architecture and client-server separation.
 
-[🔗 Live Demo](https://05-notehub-7l1z.vercel.app/) | [📂 Repository](https://github.com/Yaroslav13-13/05-notehub)
+Tech: Next.js 14 (App Router), React, TypeScript, TanStack Query, Zustand, CSS Modules, Axios, MongoDB, Mongoose, JWT, bcrypt, Session-based Auth
+
+[🔗 Live Demo]((https://09-auth-seven-pi.vercel.app/)) | [📂 Repository]((https://github.com/Yaroslav13-13/09-auth))
 
 ---
 
