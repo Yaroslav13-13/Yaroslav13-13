@@ -1,5 +1,5 @@
 # Hey there! I'm Yaroslav Pron
-### Junior Front-End Developer | React | Next.js | TypeScript
+### Junior Front-end / Fullstack Developer | JavaScript | React | Next.js | TypeScript | Node.js
 
 I'm a Frontend Developer in progress, focused on building **clean and user-friendly web applications** using modern technologies like **React, Vite, and REST APIs**.
 
