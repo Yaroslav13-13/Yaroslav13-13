@@ -94,6 +94,10 @@ Includes ready-made workout combos, a 4-week schedule, and a built-in timer with
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaroslav13-13&show_icons=true&theme=graywhite&hide_title=true" width="52%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav13-13&layout=compact&theme=graywhite" width="39%" />
+  <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yaroslav13-13&theme=default" />
+</p>
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaroslav13-13&theme=minimal)
 </div>
 
 ---
